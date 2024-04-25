@@ -21941,3 +21941,18 @@ body.coming-soon-page .header {
 .text-green {
   color: #368f26 !important;
 }
+
+
+.icon-wrapper {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    right: 10px; /* Adjust as needed */
+    width: 30px; /* Adjust as needed */
+    height: 30px; /* Adjust as needed */
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+    fill: #000; /* Adjust icon color as needed */
+}
